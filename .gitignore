@@ -1,0 +1,24 @@
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Временные файлы (прогоны тестов, ручные бэкапы)
+.tmp/
+Backup/
+
+# Данные бота (локальное состояние)
+data/*.json
+data/photos/
+logs/
+*.log
+
+# Системное
+.DS_Store
+Thumbs.db

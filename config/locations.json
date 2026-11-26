@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vegas",
+    "name": "ТРЦ Вегас Каширка",
+    "time": "",
+    "address": "МКАД, 24-й километр, 1, посёлок Совхоза имени Ленина",
+    "coords": "55.585639, 37.722646",
+    "link": "https://yandex.ru/maps/-/CXcNuUn~",
+    "note": "Сбор на парковке -3 этаж",
+    "photo": "config/photos/vegas.jpg"
+  },
+  {
+    "id": "belaya_dacha",
+    "name": "АЗС Нефть Магистраль Белая Дача",
+    "time": "",
+    "address": "МКАД, 12-й километр, вл2",
+    "coords": "55.674934, 37.836772",
+    "link": "https://yandex.ru/maps/-/CXcNuP34",
+    "note": "Сбор на АЗС",
+    "photo": "config/photos/belaya_dacha.jpg"
+  },
+  {
+    "id": "kuskovo",
+    "name": "Парк Кусково",
+    "time": "",
+    "address": "Оранжерейная улица",
+    "coords": "55.737364, 37.815451",
+    "link": "https://yandex.ru/maps/-/CXcNyYyQ",
+    "note": "Сбор на парковке",
+    "photo": "config/photos/kuskovo.jpg"
+  },
+  {
+    "id": "dnb",
+    "name": "Мега Белая дача",
+    "time": "",
+    "address": "1-й Покровский пр., 5, Котельники",
+    "coords": "55.654038, 37.844783",
+    "link": "https://yandex.ru/maps/-/CXctIE3Z",
+    "note": "Сбор на парковке",
+    "photo": "config/photos/DNB.jpg"
+  }
+]
